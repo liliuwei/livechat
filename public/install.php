@@ -72,7 +72,7 @@ foreach ($dirarray as $key => $dir) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="iiSNS install">
     <meta name="author" content="Shiyang">
-    <title>搭建新版联系QQ114077</title>
+    <title>技术支持联系QQ974829947</title>
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" media="screen">
 
@@ -98,7 +98,7 @@ foreach ($dirarray as $key => $dir) {
 <body>
 <div class="container">
     <div class="header clearfix">
-        <h3 class="text-muted">搭建新版联系QQ114077</h3>
+        <h3 class="text-muted">技术支持联系QQ974829947</h3>
     </div>
     <script>
         layer.alert('使用AI智能客服产品期间，不得危害国家安全、泄露国家秘密，不得侵犯国家社会集体和公民的合法权益。<br><br><strong>AI智能客服产品禁止用于含有木马、病毒、色情、赌博、诈骗等违法违规业务。一经发现，AI智能客服有权立即停止服务，并协助相关行政执法机关进行清查。</strong><br><br>对因意外事故、滥用、错误使用、擅自修改所引起的软件使用问题，AI智能客服不承担任何责任，也不做任何保证。', {
@@ -653,7 +653,7 @@ require __DIR__ . '/../thinkphp/start.php';");
 </div>
 <footer class="footer">
     <div class="container">
-        <p class="text-muted">搭建新版联系QQ114077</p>
+        <p class="text-muted">技术支持联系QQ974829947</p>
     </div>
 </footer>
 <!-- javascript -->
